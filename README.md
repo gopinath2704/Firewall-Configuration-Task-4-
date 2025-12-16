@@ -3,12 +3,12 @@ Objective
 
 Configure and test basic firewall rules to allow or block network traffic using:
 
-Windows Defender Firewall (Windows)
+      * Windows Defender Firewall (Windows)
 
-UFW (Uncomplicated Firewall) (Linux)
+      * UFW (Uncomplicated Firewall) (Linux)
 
 Tools Used
 
-Windows Defender Firewall with Advanced Security
+     1] Windows Defender Firewall with Advanced Security
 
-UFW (Uncomplicated Firewall) on Linux (Ubuntu / Kali / Debian-based)
+     2] UFW (Uncomplicated Firewall) on Linux (Ubuntu / Kali / Debian-based)
